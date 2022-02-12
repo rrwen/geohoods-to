@@ -1,6 +1,7 @@
 # geohoods-to
 
-* [Download Options](https://github.com/rrwen/geohoods-to/releases)
+* [Latest Release](https://github.com/rrwen/geohoods-to/releases/tag/v1.0)
+* [Raw Data Sources](src/data.csv)
 * [Developer Notes](DEVELOPER.md)
 
 A geospatial dataset of over 1000+ spatially aggregated variables for neighbourhoods in Toronto, Ontario, Canada - primarily from city and police open data.
