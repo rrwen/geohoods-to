@@ -53,6 +53,6 @@ Apple M1 CPU 8-Core
 
 Approximate running times for latest release:
 
-1. [src/download.ipynb](src/download.ipynb): 1 min
-2. [src/preprocess.ipynb](src/preprocess.ipynb): 3 min
-3. [src/run.ipynb](src/preprocess.ipynb): 36 min
+1. [src/download.ipynb](src/download.ipynb): 2 min
+2. [src/preprocess.ipynb](src/preprocess.ipynb): 3.33 min
+3. [src/run.ipynb](src/preprocess.ipynb): 2.66 min
